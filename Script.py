@@ -9,11 +9,9 @@ class script(object):
 
 <b>Bot is made by love By ~ @OwnYourBotz</b>"""
 
-    HELP_TXT = """🙋🏻‍♂️ Namaste {} 🤓
+    HELP_TXT = """𝑯𝒆𝒍𝒍𝒐 {} 
 
-○  𝗂𝗍'𝗌 𝖭𝗈𝗍𝖾 𝖢𝗈𝗆𝗉𝗅𝗂𝖼𝖺𝗍𝖾𝖽...🤓
-
-○  𝖲𝖾𝖺𝗋𝖼𝗁 Movies 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>`@HwkFilterbot`</b> 𝖺𝗇𝖽 type 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 the 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍.....
+○  𝖲𝖾𝖺𝗋𝖼𝗁 Movies 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>`@MoviesGalaxyProvider_bot`</b> 𝖺𝗇𝖽 type 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 the 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍.....
 
 ○ More Available 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌
      
@@ -26,21 +24,21 @@ class script(object):
  /broadcast - Broadcast (𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒)"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/HelplessBoi'>Predator</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Moviessoft'>Eᴋᴀᴍᴘʀᴇᴇᴛ✯Sɪɴɢʜ</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
 ○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/TeleRoid14'>TeleRoid Support</a>"""
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/Movies_galaxy_Disscusion'>Movies Galaxy Disscusion</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-Special Thanks to EvaMaria Devs & Cloners for the codes 
+Special Thanks to Ekampreet Singh
 <b>DEV:</b>
 
-- <a href=https://t.me/HelpLessBoi>『Predator』</a>
+- <a href=https://t.me/Moviessoft>『EᴋᴀᴍᴘʀᴇᴇT』</a>
 
-- Source - https://github.com/PredatorHackerzZ/SamanthaMoviesRobot""" #please don't change repo link give credit :)
+- Source - Private
 
     MANUELFILTER_TXT = """HELP: <b>Fɪʟᴛᴇʀꜱ</b>
 - Fɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ bot ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ given ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -175,13 +173,11 @@ Request Again"""
 ‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
 
     OWNER_INFO = """
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/HelpLessBoi'>Predator</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Moviessoft'>Ekampreet Singh</a>
 
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/TeleRoid14'>TeleRoid Support</a>
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/Movies_galaxy_Disscusion'>TeleRoid Support</a>
 
-○ Channel Updates: <a href='https://t.me/TeleRoidGroup'>TeleRoid Updates</a>
-
-○ KDramas Updates: <a href='https://t.me/TeleRoidGroup'>KDramasFLix</a>
+○ Channel Updates: <a href='https://t.me/MoviesGalaxy01'>Movies Galaxy Official</a>
 
 """
 
@@ -195,20 +191,20 @@ Name <b>: {}</b>
 Message <b>: {}</b>"""
 
     CAPTION = """
-📂 <em>File Name</em>: <code>@HWkOTT |{file_name}</code> 
+📂 <em>File Name</em>: <code>@Moviesgalaxy120 |{file_name}</code> 
 
 🖇 <em>File Size</em>: <code>{file_size}</code> 
 
-</i>Join</i> [MOVIES FLIXERS](https://t.me/MoviesFlixers_DL)  
+</i>Join</i> [Movies Galaxy](https://t.me/MoviesGalaxy120)  
 
-🖥 <i>Requests</i> - ||@Hwk_OTT|| """
+🖥 <i>Requests</i> - ||@MoviesGalaxy120|| """
 
     IMDB_TEMPLATE_TXT = """
 🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> 
 🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
 🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
 
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『Predator』](https://t.me/HelpLessBoi)"""
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『』](https://t.me/HelpLessBoi)"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
